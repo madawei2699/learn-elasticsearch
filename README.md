@@ -1,9 +1,11 @@
 # learn-elasticsearch
 
+Twitter thread: https://twitter.com/madawei2699/status/1541215807228637186
+
 ## ES Version
 
 commit hash: b6721943443ce4f21781f051ba6a856f8a1cdd68
-
+Twitter
 tag: v8.3.1
 
 repo: https://github.com/madawei2699/elasticsearch
