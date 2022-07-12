@@ -165,6 +165,10 @@ File: docs/reference/high-availability/cluster-design.asciidoc
 
 ![](https://img.bmpi.dev/7f8d8e56-a68e-5a52-bce7-5caddb48ed49.png)
 
+## Article
+
+- [OpenSearch Architecture - Instaclustr | Managed Open source Technology](https://www.instaclustr.com/blog/opensearch-and-elasticsearch-architecture/)
+
 ## Note
 
 ### How to write test (./TESTING.asciidoc)
