@@ -168,6 +168,7 @@ File: docs/reference/high-availability/cluster-design.asciidoc
 ## Article
 
 - [OpenSearch Architecture - Instaclustr | Managed Open source Technology](https://www.instaclustr.com/blog/opensearch-and-elasticsearch-architecture/)
+- [siddontang/elasticsearch-note: Elasticsearch note](https://github.com/siddontang/elasticsearch-note)
 
 ## Note
 
